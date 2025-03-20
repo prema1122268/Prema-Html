@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>prema</title>
+    
 </head>
 <body bgcolor="pink">
 
@@ -60,9 +60,7 @@
             <td>0%</td>
         </tr>
     </table>
-    <br>
-
-//adding url link
+  
 
     <h2>Link For Purchase</h2>
      Link<a href="https://www.exportersindia.com/search.php?srch_catg_ty=buy_offers&term=Lemon&cont=IN"> lemon</a>
